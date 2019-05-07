@@ -1,6 +1,6 @@
 # Auction-Server
 
-A small socket based Action system.
+A small socket based Action system. (made for a university coursework)
 
 Currently set up to communicate only on the local machine.
 
